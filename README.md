@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rijalhnf
 - 👀 I’m interested in reading, cycling, and a bit coding
 - 🌱 I’m currently learning javascript
-- 📫 
+- 📫 Contact me to: mail@rij.al
 
 
 <!---
