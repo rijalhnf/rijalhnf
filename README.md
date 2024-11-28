@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @rijalhnf
-- 👀 I’m interested in reading, overlanding and coding
-- 🌱 Currently as Fulltime Software Developer 
+- 🚗 I’m interested in reading, overlanding and coding
+- 👨🏽‍💻 From a Creative Content Creator to a Full-Time Software Developer
 - 📫 Contact me to: mail@rij.al
 
 # ⚙️ My Tech Stack
