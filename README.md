@@ -4,10 +4,12 @@
 - 📫 Contact me to: mail@rij.al
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-ebon-ten-13.vercel.app/api?username=rijalhnf)](https://github.com/rijalhnf/github-readme-stats)
-
-![Top Langs](https://github-readme-stats-ebon-ten-13.vercel.app/api/top-langs/?username=rijalhnf&layout=compact)
-
+<a href="https://github.com/rijalhnf/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-ebon-ten-13.vercel.app/api?username=rijalhnf" />
+</a>
+<a href="https://github.com/anuraghazra">
+  <img height=200 align="center" src="https://github-readme-stats-ebon-ten-13.vercel.app/api/top-langs?username=rijalhnf&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!---
 rijalhnf/rijalhnf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
