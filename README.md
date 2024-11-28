@@ -8,8 +8,6 @@
 </div>
 
 <br/>
-<br/>
-
 <a href="https://github.com/rijalhnf/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-ebon-ten-13.vercel.app/api?username=rijalhnf" />
 </a>
