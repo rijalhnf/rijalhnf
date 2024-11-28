@@ -4,9 +4,9 @@
 - 📫 Contact me to: mail@rij.al
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalhnf)](https://github.com/rijalhnf/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ebon-ten-13.vercel.app/api?username=rijalhnf)](https://github.com/rijalhnf/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijalhnf&layout=compact)
+![Top Langs](https://github-readme-stats-ebon-ten-13.vercel.app/api/top-langs/?username=rijalhnf&layout=compact)
 
 
 <!---
