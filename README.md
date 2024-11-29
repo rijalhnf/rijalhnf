@@ -13,7 +13,7 @@
   <img height=200 align="center" src="https://github-readme-stats-ebon-ten-13.vercel.app/api?username=rijalhnf&card_width=340&theme=react&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra">
-  <img height=200 align="center" src="https://github-readme-stats-ebon-ten-13.vercel.app/api/top-langs?username=rijalhnf&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=380&theme=react&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats-ebon-ten-13.vercel.app/api/top-langs?username=rijalhnf&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=370&theme=react&show_icons=true" />
 </a>
 
 
