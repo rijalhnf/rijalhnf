@@ -11,7 +11,7 @@
   <img height=200 align="center" src="https://github-readme-stats-ebon-ten-13.vercel.app/api?username=rijalhnf&card_width=340" />
 </a>
 <a href="https://github.com/anuraghazra">
-  <img height=200 align="center" src="https://github-readme-stats-ebon-ten-13.vercel.app/api/top-langs?username=rijalhnf&layout=compact&langs_count=8&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats-ebon-ten-13.vercel.app/api/top-langs?username=rijalhnf&layout=compact&langs_count=8&card_width=380" />
 </a>
 
 
